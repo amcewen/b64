@@ -1,0 +1,5 @@
+b64 - Simple Base64 Encoding Library for Arduino
+
+Makes it easier to Base64 encode data.  Initially written to allow the HttpClient library to
+support Basic Authentication.
+
